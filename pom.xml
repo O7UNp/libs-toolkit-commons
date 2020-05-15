@@ -7,15 +7,15 @@
 	<parent>
 		<groupId>dev.xethh.libs.toolkits</groupId>
 		<artifactId>base</artifactId>
-		<version>1.0.1</version>
+		<version>1.0.2</version>
 	</parent>
 
 	<artifactId>commons</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 
 	<name>toolkits-commons</name>
 	<url>https://github.com/O7UNp/libs-toolkit-commons</url>
-	<description>Library of common used tools</description>
+	<description>Library of commonly used tools</description>
 	<licenses>
 		<license>
 			<name>The Apache License, Version 2.0</name>
